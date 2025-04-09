@@ -4,6 +4,13 @@
 
 Welcome to my React project: **Simple Calculator App**! This elegant React-based application allows you to effortlessly perform basic arithmetic operations: addition, subtraction, multiplication, and division. Designed with a clean and user-friendly interface, this app is perfect for anyone looking to perform quick calculations with style.
 
+
+![React Simple Calculator App](image.PNG)
+
+
+*Screenshot of the React Simple Calculator App*
+
+
 ## 🎨 Features
 
 - **Basic Operations**: Seamlessly perform addition, subtraction, multiplication, and division.
